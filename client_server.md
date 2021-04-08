@@ -111,7 +111,7 @@ You can mostly answer "y" for the subsequent prompts. Afterwards, login to your 
 
 In the configuration file. replace ‘127.0.0.1’ to ‘0.0.0.0’ like this:
 
-*bind image
+![](https://github.com/Arafly/Client_server_mysql/blob/master/assets/mysql_bind.png)
 
 Do well to restart the mysql server after this adjustment
 
